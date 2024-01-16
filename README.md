@@ -1,2 +1,2 @@
-# Projects
-This repository showcases personal data science and software engineering projects I have worked on for building my portfolio. It includes machine learning models, data analysis, visualizations, and software applications using Python, Java, and other technologies.
+This repository showcases personal data science projects I have worked on for building my portfolio. It includes machine learning models, data analysis, and visualizations using Python.
+The goal is to demonstrate analytical thinking to solve real-world problems with data-driven solutions. The projects encompass various domains and techniques like classification, regression, clustering, neural networks, computer vision, and natural language processing.
